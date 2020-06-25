@@ -21,7 +21,7 @@ public class Test {
 	}
 	
 	 /* this kind of sorting is powerful than others when the array is almost sorted, in the opposite when the 
-	  * array is sorted upside down
+	  * array is sorted upside down the complexity is very hight
 	  * */
 	public static void insertionSort(Double[] doubles) {
 		int pos = 0;
